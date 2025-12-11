@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello😀&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello😀&animation=fadeIn&type=waving&color=gradient&height=100&width=auto"/>
 </p>
 </div>
 
@@ -27,5 +27,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   </p>
+### 🕹️ Contribution Game
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbiniveshMayilsamy/AbiniveshMayilsamy/blob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbiniveshMayilsamy/AbiniveshMayilsamy/blob/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Graph" src="https://github.com/AbiniveshMayilsamy/AbiniveshMayilsamy/blob/output/pacman-contribution-graph.svg">
+</picture>
 

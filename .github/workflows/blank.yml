@@ -1,0 +1,32 @@
+name: Generate 3D City
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: generate-github-profile-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          target_branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

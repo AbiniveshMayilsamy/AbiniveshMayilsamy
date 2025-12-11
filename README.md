@@ -2,14 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Abinivesh%Mayilsamy&animation=fadeIn&type=waving&color=gradient&height=100&section=header"/>
 </div>
-<!--
-**AbiniveshMayilsamy/AbiniveshMayilsamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
 
-### 👨‍💻 About Me
-
-```yaml
-name: Your Name
-role: Full Stack Developer
-currently_learning: React, Python, AWS
-goals: Contribute to Open Source
-fun_fact: I love solving complex algorithms
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" alt="languages graph"  />
+</div>

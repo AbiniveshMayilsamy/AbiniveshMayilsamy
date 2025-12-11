@@ -1,7 +1,5 @@
 <div align="center">
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello😀&animation=fadeIn&type=waving&color=gradient&height=100&width=auto"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20World&animation=fadeIn&type=waving&color=gradient&height=100&width=auto"/>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/AbiniveshMayilsamy" target="_blank">Abinivesh Mayilsamy</a>! 👋</h1>
@@ -26,12 +24,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  </p>
+</p>
+
+---
+
 ### 🕹️ Contribution Game
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbiniveshMayilsamy/AbiniveshMayilsamy/blob/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbiniveshMayilsamy/AbiniveshMayilsamy/blob/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Graph" src="https://github.com/AbiniveshMayilsamy/AbiniveshMayilsamy/blob/output/pacman-contribution-graph.svg">
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiniveshMayilsamy/AbiniveshMayilsamy/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiniveshMayilsamy/AbiniveshMayilsamy/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Graph" src="https://raw.githubusercontent.com/AbiniveshMayilsamy/AbiniveshMayilsamy/output/pacman-contribution-graph.svg">
+  </picture>
+</div>

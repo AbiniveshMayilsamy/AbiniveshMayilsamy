@@ -28,12 +28,3 @@
 
 ---
 
-### 🏙️ 3D Contribution City
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiniveshMayilsamy/AbiniveshMayilsamy/output/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiniveshMayilsamy/AbiniveshMayilsamy/output/profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D City" src="https://raw.githubusercontent.com/AbiniveshMayilsamy/AbiniveshMayilsamy/output/profile-3d-contrib/profile-green-animate.svg">
-  </picture>
-</div>

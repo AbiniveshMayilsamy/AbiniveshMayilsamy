@@ -41,8 +41,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbiniveshMayilsamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AbiniveshMayilsamy&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbiniveshMayilsamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=orange&icon_color=yellowgreen&text_color=yellow" alt="GitHub Stats"/>
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AbiniveshMayilsamy&theme=tokyonight&hide_border=true&background=0bisque&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 ---

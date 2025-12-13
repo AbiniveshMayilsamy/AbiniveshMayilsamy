@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20😀&animation=fadeIn&type=waving&color=gradient&height=100&width=auto"/>
+
+<img src="https://komarev.com/ghpvc/?username=Abinivesh-Mayilsamy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiniveshm)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiniveshmayilsamy1@Gmail.com)
+
 </div>
+
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/AbiniveshMayilsamy" target="_blank">Abinivesh Mayilsamy</a>! 👋</h1>
 

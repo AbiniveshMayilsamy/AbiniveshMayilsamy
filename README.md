@@ -37,6 +37,7 @@
 </p>
 
 ---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -45,4 +46,12 @@
 </div>
 
 ---
+<div align="center">
+  <a href="https://www.linkedin.com/in/abiniveshm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abiniveshmayilsamy1.com"><img src="httpss://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+  <br/><br/>
+  ⭐ *Star my repositories if you find them Useful!* <br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div> 
 

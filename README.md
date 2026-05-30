@@ -15,7 +15,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/AbiniveshMayilsamy" target="_blank">Abinivesh Mayilsamy</a>! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=magenta&background=00000000&center=true&vCenter=true&width=480&lines=Diploma+holder+in+Computer+Engineering;Currently+Engineering+Student;Machine+Learning+Enthusiast;Always+Learning;Graphic+Poster+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=magenta&background=00000000&center=true&vCenter=true&width=480&lines=Diploma+holder+in+Computer+Engineering;Currently+Engineering+Student;Cloud+&+DevOps+Enthusiast;Always+Learning;Graphic+Poster+Designer" alt="Typing SVG" />
 </p>
 
 ---
